@@ -1,0 +1,7 @@
+/* cut the start
+ */.crop {
+    overflow: hidden;
+  }
+  div {
+    cursor: pointer;
+  }

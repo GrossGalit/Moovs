@@ -1,0 +1,33 @@
+[
+  {
+    "productId": 1,
+    "productName": "hand braclate",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2019",
+    "description": "hand braclate with 48-inch width.",
+    "price": 19.95,
+    "starRating": 5,
+    "imageUrl": "assets/images/hand.png"
+  },
+  {
+    "productId": 2,
+    "productName": "leg braclate-right",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2019",
+    "description": "leg braclate-right with 48-inch width.",
+    "price": 32.99,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/right.png"
+  },
+  {
+    "productId": 3,
+    "productName": "leg braclate-left",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2019",
+    "description": "leg braclate-left with 48-inch width.",
+    "price": 8.9,
+    "starRating": 3.8,
+    "imageUrl": "assets/images/left.png"
+  }
+ 
+]
